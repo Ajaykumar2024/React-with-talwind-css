@@ -1,0 +1,14 @@
+ @import "tailwindcss";
+
+
+ /* #right::-webkit-scrollbar{
+    display: none ;
+ } */
+
+ #card{
+  opacity: 1;
+}
+
+#card:hover {
+opacity: 0.95;}
+ 
