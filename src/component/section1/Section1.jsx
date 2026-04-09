@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from './navbar'
-import Page1Content from './Page1Content'
+ import Navbar from "./Navbar.jsx"
+ import Page1Content from './Page1Content'
 
 const Section1 = ({professionals}) => {
 
